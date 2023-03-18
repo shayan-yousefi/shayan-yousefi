@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Shayan Yousefi
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Laravel
-- 📫 How to reach me -> instagram: shayanys_dev | email:shayan.pixim@yahoo.com
+- 📫 How to reach me -> instagram: shayanys_dev | email: shayan.yousefi100@yahoo.com
