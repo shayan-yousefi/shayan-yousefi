@@ -10,7 +10,6 @@ I'm a Fullstack web developer; currently, I work as a freelancer. I'm interested
 ![Shayan Yousefi - programming language JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Shayan Yousefi - programming language HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Shayan Yousefi - programming language CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Shayan Yousefi - programming language SQL](https://img.shields.io/badge/SQL-0e17c7?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## Technologies
 ![Shayan Yousefi - programming technology Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
