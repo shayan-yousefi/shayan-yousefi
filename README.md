@@ -7,6 +7,7 @@ I'm a Fullstack web developer; currently, I work as a freelancer. I'm interested
 
 ## Languages
 ![Shayan Yousefi - programming language PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Shayan Yousefi - programming language Golang](https://img.shields.io/badge/golang-323330?style=for-the-badge&logo=go&logoColor=blue)
 ![Shayan Yousefi - programming language JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Shayan Yousefi - programming language HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Shayan Yousefi - programming language CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -17,4 +18,6 @@ I'm a Fullstack web developer; currently, I work as a freelancer. I'm interested
 ![Shayan Yousefi - programming technology bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Shayan Yousefi - programming technology jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Shayan Yousefi - programming technology my-sql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
+![Shayan Yousefi - programming technology my-sql](https://img.shields.io/badge/rabbitmq-323330?style=for-the-badge&logo=rabbitmq&logoColor=orange)
+![Shayan Yousefi - programming technology my-sql](https://img.shields.io/badge/elasticsearch-323330?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Shayan Yousefi - programming technology my-sql](https://img.shields.io/badge/redis-323330?style=for-the-badge&logo=redis&logoColor=white)
