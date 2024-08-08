@@ -1,5 +1,5 @@
 # Hi, Im Shayan Yousefi
-I'm a Fullstack web developer; currently, I work as a freelancer. I'm interested in creating open-source projects to help the developer community.
+I'm a Backend developer. I'm interested in creating open-source projects to help the developer community.
 
 [![Shayan Yousefi linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shayan-yousefi-411179231)
 [![Shayan Yousefi instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/shayanys_dev)
